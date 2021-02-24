@@ -2,6 +2,6 @@ class Hekko
 {
     public static void main(String args[])
     {
-        System.out.println("Helli");
+        System.out.println("Hello");
     }
 }
